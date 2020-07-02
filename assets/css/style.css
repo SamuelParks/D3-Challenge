@@ -29,3 +29,16 @@ body {
   margin: 0;
   font-size: 16px;
 }
+
+/* This need to connect to the ToolTip */
+.tagForTooltip {
+  padding: 6px;
+  font-size: 12px;
+  line-height: 1;
+  line-height: 1.5em;
+  color: #f4f4f4f;
+  text-align: center;
+  text-transform: capitalize;
+  background: rgba(83, 133, 88, 0.8);
+  border-radius: 4px;
+}
